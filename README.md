@@ -1,11 +1,6 @@
-# lsp
+# LAMP
+
 THIS SCRIPT WAS MADE BY JEDAN
-
-use chmod 777 script.sh before running
-
-use "sed -i '1s/^.*#//;s/\r$//' brokenScript" if /bin/bash no such file or directory
-
-after "sed -i ..." give hastag to !/bin/bash first
 
 Target :
 1. DNS
